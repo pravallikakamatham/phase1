@@ -1,0 +1,47 @@
+{	
+	"profile":{
+		"img":"Tulips.jpg",
+		"name":"pravallika",
+		"rollno":"1272",
+		"place":"vijayawada",
+		"des":"student"
+	},
+	"career":{
+		"info":" i seek a position where i can explore my talents for the benefits of the organization"
+	},
+   "education":[
+     {
+     	"sno":"1.",
+     	"degree":"b.tech",
+     	"institute":"vignan",
+     	"per":"85%",
+     	"yop":"2018"
+     },
+     {
+
+     	"sno":"2.",
+     	"degree":"intermediate",
+     	"institute":"sri chaitanya",
+     	"per":"90%",
+     	"yop":"2014"
+     },
+     {
+        "sno":"3.",
+     	"degree":"s.s.c",
+     	"institute":" sri  chaitanya",
+     	"per":"85%",
+     	"yop":"2012"
+     }
+   ],
+   "languages":[
+   	{
+   		"info":"english"
+   	},
+   	{
+        "info":"telugu"
+   	},
+   	{
+   		"info":"hindi"
+   	}
+   ]
+}
